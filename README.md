@@ -1,4 +1,5 @@
-# FileSafe
+
+# FileSafe V1
 Using state of the art encription techniques (in 1992) we encript your files and it is really hard to get the encription key.
 ## How do we keep data safe?
 We use your password as the encription key.
@@ -13,3 +14,6 @@ Home users.
 Don't use this on important top securate files like buisness and goverment documents.
 ## Cost?
 <b>Free For <s>Now</s> Ever</b>
+
+# Important Info!!! READ!!!
+When updating make unencripted copies as updates will have a diffrent more secure encription method.
