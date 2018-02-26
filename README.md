@@ -14,4 +14,10 @@ V1 - <a href="https://github.com/Haz001/FileSafe/raw/master/V1/FileSafeV1.exe">C
 # Cost?
 <b>Free For <s>Now</s> Ever</b>
 # Important Info!!! READ!!!
+## When Updating!
 When updating make unencripted copies as updates will have a diffrent more secure encription method.
+This is a volitial project.
+## Legal Stuff!
+I am not responsable for any loss of infomation or damage caused by this program. Use at your own risk.
+I am not able to recover or required to recover passwords and infomation as I am not able.
+
