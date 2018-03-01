@@ -1,10 +1,10 @@
 # What is it?
 This is a encryption program that alowes its users to save open and edit there important files without having pay anything for encription. <br/>
-FileSafe is a free encryption program that encrypts text and other files for free.
+FileSafe Encryptor is a free encryption program that encrypts text and other files for free.
 # Versions
 ## Downlaod Links
 V1 - <a href="https://github.com/Haz001/FileSafe/raw/master/V1/FileSafeV1.exe">Click</a>
-## FileSafe V1 Info
+## FileSafe Encryptor V1 Info
 ### Pros
 1 - Free<br/>
 2 - small size<br/>
